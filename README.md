@@ -3,6 +3,7 @@
 * 🚀 I’m passionate about competitive programming
 * 🌱 I’m currently learning C++, Data Structures, Python for Data Science, Javascript
 * 💬 Ask me about C, C++, Competitive programming
+* 🧑🏼‍💻 My Codeforces ID : Krishna_njr10
 * 💞 Looking for collaboration apportunities
 * 🔎 Here you will find my solutions to problems from platforms like Codeforces, Codechef, HackerRank. Along with various algorithmic tamplates and Data Structures tha I use in contests
 * 📈 I'm always looking to improve and learn new techniques, so feel free to connect, discuss, and collaborate!🚀 
