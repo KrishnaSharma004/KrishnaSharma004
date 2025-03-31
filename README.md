@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krishna Sharma</h1>
 <h3 align="center">A passionate Competitive programmer from India</h3>
-<img align="center" alt="coding" width="500" src="https://images.app.goo.gl/gtBVxBsxMu9tFkiR7.gif">
+<img align="center" alt="Coding" width="500" src="https://media.giphy.com/media/26tPPlGy1mPqtVZne/giphy.gif​">
 <p>* 👋 Hi, I’m @KrishnaSharma004.<p>
 <p>* 🔭 I'm currently studying Btech (Hons) in CSE AI.<p>
 <p>* 🚀 I’m passionate about competitive programming.<p>
