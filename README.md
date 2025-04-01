@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krishna Sharma</h1>
 <h3 align="center">A passionate Competitive programmer from India</h3>
 
-<p>* 👋 Hi, I’m @KrishnaSharma004.<p>
+
 <p>* 🔭 I'm currently studying Btech (Hons) in CSE AI.<p>
 <p>* 🚀 I’m passionate about competitive programming.<p>
 <p>* 🌱 I’m currently learning C++, Data Structures, Python for Data Science, Javascript.<p>
