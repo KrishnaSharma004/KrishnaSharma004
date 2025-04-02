@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Krishna Sharma</h1>
-<h3 align="center">A passionate Competitive programmer from India</h3>
+<h5 align="center">Hi 👋, I'm Krishna Sharma Welcome to my github profile</h4>
+<h4 align="center">A passionate Competitive programmer from India</h3>
 
 
 <p>* 🔭 I'm currently studying Btech (Hons) in CSE AI.<p>
@@ -25,7 +25,12 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnasharma004&show_icons=true&locale=en&layout=compact" alt="krishnasharma004" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnasharma004&" alt="krishnasharma004" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnasharma004&label=Profile%20views&color=0e75b6&style=flat" alt="krishnasharma004" /> </p>
+
+
+
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=krishnasharma004&label=Profile%20views&color=0e75b6&style=flat" alt="krishnasharma004" /> </p>
 
 
 
