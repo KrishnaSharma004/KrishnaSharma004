@@ -1,7 +1,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=33&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=1050&height=50&lines=Hey%2C+I'm+Krishna+Sharma+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Krishna Sharma Welcome to my Profile! animated typed out">
 <div align="center">
 
-
 <h4 align="center">A passionate Competitive programmer from India🇮🇳</h3>
 
 <h2 align="center">About Me</h2>
@@ -37,6 +36,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KrishnaSharma004&show_icons=true&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="200" alt="KrishnaSharma004" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaSharma004&" alt="KrishnaSharma004" /></p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KrishnaSharma004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+
+### 📈 **Activity Graph**
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnaSharma004&theme=github-dark&area=true&hide_border=true" height="250" alt="Activity Graph" />
+</div>
 
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=KrishnaSharma004&theme=matrix" alt="KrishnaSharma004" /></a> </p>
