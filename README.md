@@ -16,23 +16,42 @@
     ⚡ Looking for collaboration opportunities<br>
   </samp>
 </p>
-<h2 align="left">🔗 Connect with me:</h2>
-<p align="left">
+<h3><b><samp>Connect with Me</samp></b></h3>
+  
+[![Linkdein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-sharma-87126531b/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/krishna._.sharma10/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/KrishnaSharma004)
+[![Codechef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/krishna_vnjr10)
+[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Krishna__njr10) 
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Krishna_njr10)
 
-<a href="https://www.codechef.com/users/krishna_vnjr10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="krishna_vnjr10" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/krishna__njr10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="krishna__njr10" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">📚 Languages and Tools:</h2>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3><b><samp>Skills and Languages</samp></b></h3>
 
+![C](https://img.shields.io/badge/C-27338e?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 </p>
+
+<h3><b><samp>Tools and Platform</samp></b></h3>
+
+![Git](https://img.shields.io/badge/Git-999999?style=for-the-badge&logo=Git&logoColor=red)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+
+<hr>  
 
 <summary><h2> 🔥 &nbsp; My Stats : </h2></summary>
 
 <div align="center">
   
 ###
+
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KrishnaSharma004&show_icons=true&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="200" alt="KrishnaSharma004" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaSharma004&" alt="KrishnaSharma004" /></p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KrishnaSharma004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
@@ -42,15 +61,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnaSharma004&theme=github-dark&area=true&hide_border=true" height="250" alt="Activity Graph" />
 </div>
 
-
+### 📊 **Profile Views and Trophy**
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=KrishnaSharma004&theme=matrix" alt="KrishnaSharma004" /></a> </p>
-
- ###
-
-  <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/KrishnaSharma004/count.svg" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=KrishnaSharma004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+
 
 
 
@@ -60,3 +76,4 @@
 KrishnaSharma004/KrishnaSharma004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
