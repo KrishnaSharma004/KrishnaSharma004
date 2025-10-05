@@ -4,7 +4,7 @@
 <h4 align="center">A passionate Competitive programmer from India🇮🇳</h3>
 
 <h2 align="center">About Me</h2>
-<p align="center">
+<p align="left">
   <samp>
     🔭 I'm currently studying Btech (Hons) in CSE AI<br>
     🚀 I’m passionate about competitive programming<br>
