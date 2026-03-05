@@ -45,25 +45,18 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 <hr>  
-
-<summary><h2> 🔥 &nbsp; My Stats : </h2></summary>
+<img align="center" src="https://codeforces-stats-vlx.vercel.app/api/badge?username=Krishna__njr10&theme=monokai" />
+<p></p><img align="center" src="https://codeforces-stats-vlx.vercel.app/api/card?username=Krishna__njr10&theme=monokai" />
+<p></p><img align="center" src="https://codeforces-stats-vlx.vercel.app/api/graph?username=Krishna__njr10&theme=monokai" />
 
 <div align="center">
-  
-###
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KrishnaSharma004&show_icons=true&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="200" alt="KrishnaSharma004" />
+</div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaSharma004&" alt="KrishnaSharma004" /></p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=KrishnaSharma004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 
 ### 📈 **Activity Graph**
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnaSharma004&theme=github-dark&area=true&hide_border=true" height="250" alt="Activity Graph" />
 </div>
-
-### 📊 **Profile Views and Trophy**
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=KrishnaSharma004&theme=matrix" alt="KrishnaSharma004" /></a> </p>
-<p align="left">
   <img src="https://komarev.com/ghpvc/?username=KrishnaSharma004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
