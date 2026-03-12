@@ -6,14 +6,13 @@
 <h2 align="center">About Me</h2>
 <p align="left">
   <samp>
-    🔭 I'm currently studying Btech (Hons) in CSE AI<br>
+    🔭 I'm currently pursuing Btech(Hons.)CSE in AI<br>
     🚀 I’m passionate about competitive programming<br>
-    🌱 I’m currently learning C++, Data Structures, Python for Data Science, Javascript<br>
-    💬 Ask me about C, C++, Competitive programming<br>
+    🌱 I’m currently learning AI/ML and Web Development<br>
+    💬 Ask me about Competitive programming, Web Development<br>
     🔎 Here you will find my solutions to problems from platforms like Codeforces, Codechef, HackerRank. Along with various algorithmic tamplates and Data Structures tha I use in contests<br>
     📈 I'm always looking to improve and learn new techniques, so feel free to connect, discuss, and collaborate!🚀<br>
     🧰 Reach me at : rakesh7355249204@gmail.com<br>
-    ⚡ Looking for collaboration opportunities<br>
   </samp>
 </p>
 <h3><b><samp>Connect with Me</samp></b></h3>
@@ -52,6 +51,8 @@
 <div align="center">
 </div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaSharma004&" alt="KrishnaSharma004" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=KrishnaSharma004&show_icons=true&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="200" alt="KrishnaSharma004" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KrishnaSharma004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 
 ### 📈 **Activity Graph**
 <div align="center">
