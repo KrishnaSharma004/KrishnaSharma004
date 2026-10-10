@@ -1,6 +1,3 @@
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=33&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=1050&height=50&lines=Hey%2C+I'm+Krishna+Sharma+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Krishna Sharma Welcome to my Profile! animated typed out">
-<div align="center">
-
 <h4 align="center">Competitive programmer</h3>
 
 <h2 align="center">About Me</h2>
