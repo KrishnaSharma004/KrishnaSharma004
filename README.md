@@ -1,6 +1,6 @@
-<h4 align="center">Competitive programmer</h3>
+<h2 align="center">Competitive programmer</h3>
 
-<h2 align="center">About Me</h2>
+<h3 align="center">About Me</h2>
 <p align="left">
   <samp>
     🔭 I'm currently pursuing Btech(Hons.)CSE in AI<br>
